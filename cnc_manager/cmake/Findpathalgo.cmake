@@ -1,0 +1,4 @@
+ set(PATHALGO_LIBRARIES ${PROJECT_SOURCE_DIR}/../pathalgo/lib)
+
+
+ set(READLINE_INCLUDE_DIRS ${PROJECT_SOURCE_DIR}/../pathalgo/include)
