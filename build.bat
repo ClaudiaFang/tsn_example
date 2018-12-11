@@ -11,7 +11,7 @@ mkdir Build
 cd .\Build
 
 del /Q /S *
-cmake -G"MinGW Makefiles" ..
+cmake -G "MinGW Makefiles" ..
 mingw32-make
 
 cd %beforepath%
